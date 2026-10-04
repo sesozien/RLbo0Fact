@@ -4,10 +4,10 @@ import json
 # =========================================================
 # الإعدادات العامة للمشروع والمسارات
 # =========================================================
-PAGE_TITLE = "Bo0's Marketing & Video Factory"
+PAGE_TITLE = "Bo0'sViDClone - مصنع الفيديوهات والصور"
 PAGE_ICON = "🥷"
 
-BRAND_NAME_AR = "منصة المصنع والكتالوج والمنصات الذكية"
+BRAND_NAME_AR = "مصنع المنتجات والمنصات الذكي"
 DEVELOPER_SIGNATURE = "Developed with 💡 by Bo0"
 
 # المسارات الأساسية
